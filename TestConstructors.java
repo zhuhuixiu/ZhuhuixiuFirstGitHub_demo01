@@ -1,4 +1,4 @@
-package constructors;
+﻿package constructors;
 
 public class TestConstructors {
 
@@ -14,11 +14,13 @@ public class TestConstructors {
 //		String name = "小白";
 //		int health = 78;
 //		int love = 23;
+		int num = 0;
 //		String strain = "田园犬";
 		Dog xiaobai = new Dog("小白",78,23,"田园犬");
 		xiaobai.print();
 //		Dog xiaohuang = new Dog("小黄",88,23,"泰迪");
 //		xiaohuang.print();
+		
 		
 		
 
